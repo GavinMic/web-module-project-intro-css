@@ -52,6 +52,8 @@ Once your repository is set up, practice what you learned today to style the sit
 
 **Throughout your design you should avoid static units (pixels), and should instead use responsive units wherever possible.**
 
+**Please note that you CANNOT use flexbox on today's project - you must achieve your layout using inline-block**
+
 
 ### Task 3: Stretch Goals
 
